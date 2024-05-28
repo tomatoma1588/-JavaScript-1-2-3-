@@ -8,4 +8,4 @@ function checkNumber(value) {
 // Приклади використання:
 console.log(checkNumber(4));  // 'парне'
 console.log(checkNumber(7));  // 'непарне'
-console.log(checkNumber('текст'));  // ''
+
